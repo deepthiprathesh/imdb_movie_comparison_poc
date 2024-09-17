@@ -1,4 +1,4 @@
-Batch Processing and Validation Script
+Batch Processing and Actor Validation Script
 
 Overview
 This script processes a large JSON file (`large_imdb_mock_data.json`) containing movie records, splits it into smaller batch files, and validates the actors in these batches against an actor list provided in a CSV file (`actors_data.csv`). The script also generates an Excel file (`batch_status.xlsx`) to track the validation status of each batch.
