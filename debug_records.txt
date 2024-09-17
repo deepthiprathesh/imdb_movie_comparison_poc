@@ -1,0 +1,24 @@
+Raw Record:
+{
+  "Title": "ante subiungo vito",
+  "Year": "1995",
+  "Genre": "spell",
+  "Director": "Jermaine DuBuque",
+  "Rating": "6.4",
+  "Actor_IDs": "actor_0f8092f9-79c4-43b8-8168-3ad1657ffebe, actor_779bd35f-aa56-4f30-94df-f732b7b48619, actor_3ec69b78-47ab-4e28-a453-95994b861627",
+  "IMDB_ID": "tt3703661",
+  "Poster_URL": "https://loremflickr.com/640/480"
+}
+
+Normalized Record:
+{
+  "Title": "ante subiungo vito",
+  "Year": 1995,
+  "Genre": "spell",
+  "Director": "Jermaine DuBuque",
+  "Rating": 6.4,
+  "Actors": "actor_0f8092f9-79c4-43b8-8168-3ad1657ffebe, actor_779bd35f-aa56-4f30-94df-f732b7b48619, actor_3ec69b78-47ab-4e28-a453-95994b861627",
+  "IMDB_ID": "tt3703661",
+  "Poster_URL": "https://loremflickr.com/640/480"
+}mflickr.com/640/480"
+}

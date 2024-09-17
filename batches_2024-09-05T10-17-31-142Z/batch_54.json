@@ -1,0 +1,1002 @@
+[
+  {
+    "Title": "nulla aliquid sit",
+    "Year": "2021",
+    "Genre": "thunder",
+    "Director": "Grace Schaden",
+    "Rating": "6.9",
+    "Actor_IDs": "actor_aec60829-80f3-4e44-b4ef-9072adafbcf6, actor_3491e966-2cd1-4149-8e82-5c05586ca17b, actor_e75fb7db-a589-4119-8aa1-372035540895",
+    "IMDB_ID": "tt7085503",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "comburo thorax pauper",
+    "Year": "2022",
+    "Genre": "boxspring",
+    "Director": "Viola Pacocha",
+    "Rating": "6",
+    "Actor_IDs": "actor_5e692974-e632-488a-adba-e6d41976cbfb, actor_c8940bfd-29d6-4664-a80c-592eba4f3cc7, actor_e7d40106-9c2e-4c10-8d15-64b7b49e424d",
+    "IMDB_ID": "tt9161580",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "tardus auctor corona",
+    "Year": "1959",
+    "Genre": "outlook",
+    "Director": "Doris McGlynn PhD",
+    "Rating": "3.2",
+    "Actor_IDs": "actor_12777284-1923-49bb-b5ee-81e626308eba, actor_a4c679f4-92b5-4cfe-ad4b-270caa025e99, actor_2a00de69-abc8-4f11-9168-79ad74a7484f",
+    "IMDB_ID": "tt6974708",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cogito crudelis defessus",
+    "Year": "1952",
+    "Genre": "final",
+    "Director": "Nettie Yundt-Kling",
+    "Rating": "7.8",
+    "Actor_IDs": "actor_2de3386a-6423-4662-afc2-df01653a5301, actor_b935993c-9ccd-4d9a-a34d-bfeda424db60, actor_f9b170e9-8349-491e-860a-829c05e0ed78",
+    "IMDB_ID": "tt6015500",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "adulescens vorax sursum",
+    "Year": "1946",
+    "Genre": "drawbridge",
+    "Director": "Jackie Bernhard",
+    "Rating": "9.2",
+    "Actor_IDs": "actor_091fe095-998d-4017-87ab-81074936e6c3, actor_b5da1ab2-8bf3-4c7c-8613-082c7dc84285, actor_36d1ee89-e374-4337-81bd-524a3496dafd",
+    "IMDB_ID": "tt1937259",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "perspiciatis vereor viriliter",
+    "Year": "1990",
+    "Genre": "severity",
+    "Director": "Andrew Moore",
+    "Rating": "8.1",
+    "Actor_IDs": "actor_b6e212b6-adf8-4f2e-a481-b9ba18c7b827, actor_1bb32b5e-177c-4c75-ae35-a9bd3829a76e, actor_043adb78-b051-4afa-a70f-3f363ae8242d",
+    "IMDB_ID": "tt7596026",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "solio vilitas voluptate",
+    "Year": "2019",
+    "Genre": "readiness",
+    "Director": "Mr. Kelly Hills",
+    "Rating": "4.8",
+    "Actor_IDs": "actor_40c75fea-1cf2-4b34-b77c-61a2895d09df, actor_b3ccd899-d33e-4a65-9503-5962d9606ba1, actor_4aeb5b78-1244-4fa5-a1f3-6097da4c75e4",
+    "IMDB_ID": "tt3615518",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "desolo tabernus conscendo",
+    "Year": "1985",
+    "Genre": "factor",
+    "Director": "Gwen Runte",
+    "Rating": "8.9",
+    "Actor_IDs": "actor_e88a7327-01af-4ba7-a231-70f8a1ae7d2f, actor_43830e9a-611b-4078-ba42-e2519c3380be, actor_903aaadf-8c6f-4cfb-bd90-b10c2a33fb72",
+    "IMDB_ID": "tt4992161",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "adipisci atavus defaeco",
+    "Year": "2011",
+    "Genre": "fan",
+    "Director": "Randall Breitenberg",
+    "Rating": "4.1",
+    "Actor_IDs": "actor_d2d211a5-378b-4be8-883d-b7eacbb9a316, actor_6edd7c2f-60e7-4eb8-aedb-336dca8d0348, actor_e4fe3508-0203-4cc5-a45c-c5c4dad0f9d2",
+    "IMDB_ID": "tt1812316",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cerno avaritia subnecto",
+    "Year": "1933",
+    "Genre": "attendant",
+    "Director": "Mrs. Eula Mraz-Moen",
+    "Rating": "9.7",
+    "Actor_IDs": "actor_03a85ff6-de0f-43d0-ab04-3cbb2485c0e9, actor_8d926b0a-73c6-41d3-b964-35220e845629, actor_f0b05456-c975-41cb-b03c-edd2db405309",
+    "IMDB_ID": "tt1671274",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "suppono una cubicularis",
+    "Year": "2009",
+    "Genre": "making",
+    "Director": "Kristopher Torp",
+    "Rating": "6.8",
+    "Actor_IDs": "actor_7ea7d9ab-c39e-4ea8-b4d2-2e88f2d99131, actor_0d7e39ce-7efc-4a91-b66d-a754fdab3303, actor_d99e95f8-8648-4e65-92a0-290ec590b4b7",
+    "IMDB_ID": "tt4973267",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "defessus excepturi quisquam",
+    "Year": "1945",
+    "Genre": "leaker",
+    "Director": "Mable Corwin",
+    "Rating": "5.4",
+    "Actor_IDs": "actor_b31677d1-f5b8-437c-b589-c177a3fb1b3b, actor_0730e49d-a8e2-4865-b3ab-077de00cc952, actor_3643927a-bbdf-4d48-a7f7-b2e3f65f4a85",
+    "IMDB_ID": "tt7431078",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cohibeo tabgo vilis",
+    "Year": "2014",
+    "Genre": "candidacy",
+    "Director": "Della Hills",
+    "Rating": "4.8",
+    "Actor_IDs": "actor_1e548752-4c96-4663-9cdc-c1273d91df66, actor_b7835a4e-e293-497d-9400-2f1d3258cfe0, actor_b5d2d4c1-b7d6-4b51-84ad-0edcf3bc8062",
+    "IMDB_ID": "tt6896479",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "triumphus alienus corona",
+    "Year": "2024",
+    "Genre": "tablet",
+    "Director": "John Roob-King DVM",
+    "Rating": "2.6",
+    "Actor_IDs": "actor_b73e188e-42d1-47f9-9e4d-204b3287c595, actor_ece148f8-6857-4731-9628-9d74920c8f0b, actor_764acda0-2754-44f7-b8d5-4d27abbecf33",
+    "IMDB_ID": "tt5685190",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "tutamen aeternus surgo",
+    "Year": "1971",
+    "Genre": "career",
+    "Director": "Kelly Altenwerth",
+    "Rating": "9",
+    "Actor_IDs": "actor_e3d9088f-43c0-4611-bc20-b8e96658fd5f, actor_6105f2fb-3e34-4a0d-a78a-5b5625a0d36c, actor_5ba728ac-4ca1-4fe7-acc6-9248e64e83a2",
+    "IMDB_ID": "tt8195282",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "defero thorax consequatur",
+    "Year": "2006",
+    "Genre": "young",
+    "Director": "Howard Nader",
+    "Rating": "4.3",
+    "Actor_IDs": "actor_e6e0c86d-9ce4-42cb-b173-7066d142934a, actor_a832eba1-353a-44b0-8564-51b7c0d4bfac, actor_a9dc4bab-e1f2-4245-9d3c-cda238d88a68",
+    "IMDB_ID": "tt4556809",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "talis aiunt condico",
+    "Year": "1934",
+    "Genre": "disco",
+    "Director": "Edwin Cartwright Jr.",
+    "Rating": "3.4",
+    "Actor_IDs": "actor_ca862b0c-6ca5-411e-b2e5-6d09b2e83c59, actor_24d5e1e6-ba7f-47bd-adeb-d17fe1a1c547, actor_4ed4df5d-17cc-4484-b61a-b57130cb597b",
+    "IMDB_ID": "tt4398048",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "conqueror clam toties",
+    "Year": "1943",
+    "Genre": "zoology",
+    "Director": "Ms. Julie Kessler",
+    "Rating": "9.6",
+    "Actor_IDs": "actor_604d7a26-28ad-41a7-9e61-2e96bad0f363, actor_360a6d42-4922-4a6b-8a9e-58e5ecb38a8d, actor_1b97d4e4-c282-4c78-85df-91fcf2b6567e",
+    "IMDB_ID": "tt4015506",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "alveus autus paens",
+    "Year": "1972",
+    "Genre": "bottle",
+    "Director": "Fernando Hackett",
+    "Rating": "3.9",
+    "Actor_IDs": "actor_39a1434d-cbf0-429d-a915-0e5c9c5cbd26, actor_a4853da2-12d5-43d0-8a11-0a626c955d99, actor_5410169c-8e4c-44d9-b273-241ad1167e93",
+    "IMDB_ID": "tt7130830",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "ulciscor angelus quasi",
+    "Year": "1953",
+    "Genre": "mousse",
+    "Director": "Randal Goldner V",
+    "Rating": "5.1",
+    "Actor_IDs": "actor_63c9d799-3e0c-4e58-93db-f3142323fc76, actor_f2ffa02d-fb91-4099-aa3c-7349acc8777a, actor_47314ff4-3115-4154-8a37-4d9cdfa5816e",
+    "IMDB_ID": "tt5984179",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "audax ustilo tergo",
+    "Year": "1981",
+    "Genre": "celeriac",
+    "Director": "Kate Mante",
+    "Rating": "3.4",
+    "Actor_IDs": "actor_848f11f3-ec9c-4d68-8e0a-3a54c1255007, actor_cf9dfa2a-aa8c-4d13-abe9-d1a6c274f97c, actor_3f0d38b3-f091-4b27-a4d4-76af6a2cb5df",
+    "IMDB_ID": "tt2532512",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "agnosco tersus spectaculum",
+    "Year": "1993",
+    "Genre": "dock",
+    "Director": "Clifton Harber",
+    "Rating": "6.2",
+    "Actor_IDs": "actor_362526b4-d0c9-4833-90f9-9574d02af7b1, actor_02a37692-8d52-4818-a151-4787312edce7, actor_f763b3f1-a74c-4d9b-bbf0-78e9ba518126",
+    "IMDB_ID": "tt2970740",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "teres voluntarius ad",
+    "Year": "1983",
+    "Genre": "modernity",
+    "Director": "Tiffany Kirlin",
+    "Rating": "1",
+    "Actor_IDs": "actor_18d41492-1194-4685-b99f-bc301ecddf0a, actor_6ab288cc-ea17-4fcf-a623-ce8846affbab, actor_faa55b70-c3b0-4645-b88a-0b5b238f5bc3",
+    "IMDB_ID": "tt8778626",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "ducimus arguo somniculosus",
+    "Year": "1954",
+    "Genre": "fear",
+    "Director": "Rogelio Corkery",
+    "Rating": "5.7",
+    "Actor_IDs": "actor_5043e496-ac83-4169-89ed-d02e4ab1c2cf, actor_606c3ddf-7b1d-4bfb-a747-198ef573d431, actor_9cee3a6e-7f34-46de-8926-154ba744e2fe",
+    "IMDB_ID": "tt3143309",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "contra nam itaque",
+    "Year": "1978",
+    "Genre": "calibre",
+    "Director": "Garry Hahn",
+    "Rating": "2.4",
+    "Actor_IDs": "actor_f9b131f7-d4bd-42ac-be3c-8959b6879d7e, actor_254939e6-2894-4c32-b36a-92c72c8ee4a9, actor_d8e3bc3a-1e81-496e-a960-d5604f7391dc",
+    "IMDB_ID": "tt2966659",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "spoliatio sub atrox",
+    "Year": "2003",
+    "Genre": "receiver",
+    "Director": "Mamie Stroman I",
+    "Rating": "3.6",
+    "Actor_IDs": "actor_17f88aaf-ea80-428d-b4ae-1f1f96829dd2, actor_d7ce2ddd-dabd-4d74-b1f1-0cdb4e5beea8, actor_08f9fddd-65ca-4bef-900f-585148905925",
+    "IMDB_ID": "tt5808581",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "earum cupiditate tamen",
+    "Year": "1981",
+    "Genre": "diplomacy",
+    "Director": "Cecelia Harber",
+    "Rating": "5.2",
+    "Actor_IDs": "actor_01631278-e27e-4702-b866-93d1b104a4c8, actor_7c2b4d05-d982-4f4a-acaf-1d032c4c65a2, actor_9353cfe4-27bb-44a6-ab73-3bbc542a2493",
+    "IMDB_ID": "tt4136502",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "temporibus valde vero",
+    "Year": "2014",
+    "Genre": "lapdog",
+    "Director": "Mable Ernser",
+    "Rating": "2.5",
+    "Actor_IDs": "actor_7d25c3d0-a53e-4712-80fb-cbb4cf78df40, actor_58a301d2-d17a-4fb6-9698-0aa53215c929, actor_1ad23c4a-b6b4-44ca-a636-2fa7f77e80f6",
+    "IMDB_ID": "tt5243110",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "tenax alienus concido",
+    "Year": "1925",
+    "Genre": "disembodiment",
+    "Director": "Dr. Lynn Marvin",
+    "Rating": "3.8",
+    "Actor_IDs": "actor_4c52fe21-c27b-4c9d-a2f3-d8f2f08c6bf3, actor_0310cbb9-f9d8-4c3c-b390-dd5a87f12f30, actor_b147ce95-491a-47ef-ab73-6185f2e25890",
+    "IMDB_ID": "tt4097731",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "sollicito suscipit blanditiis",
+    "Year": "1931",
+    "Genre": "location",
+    "Director": "Pat Turcotte",
+    "Rating": "4.1",
+    "Actor_IDs": "actor_5684bc77-b2b5-4988-93e8-3a91e3273797, actor_e1850a5b-5947-4ad3-babe-4621fbb78a43, actor_5ab8bfc0-f0ed-49e7-b7a6-7aa4ec7c7e5c",
+    "IMDB_ID": "tt7280583",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "accedo dedico strenuus",
+    "Year": "1965",
+    "Genre": "buy",
+    "Director": "Agnes Reichert DDS",
+    "Rating": "1.4",
+    "Actor_IDs": "actor_aa5d1dac-5ed1-4bac-a7ad-0c454226c840, actor_0be97be5-bf4d-4b1a-b273-163ed5d4a916, actor_9d720e22-c6f6-4236-823f-6f2dc43ac4c6",
+    "IMDB_ID": "tt7686017",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "versus validus succurro",
+    "Year": "1987",
+    "Genre": "gobbler",
+    "Director": "Tabitha Oberbrunner",
+    "Rating": "9.8",
+    "Actor_IDs": "actor_8471af17-8a56-49b1-94dd-c6a5bc2b5ccf, actor_456a2013-183c-4844-9e5a-276bda3123d5, actor_32ba2696-602b-484f-9bc7-8a68c02be696",
+    "IMDB_ID": "tt3670802",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "nisi apud timidus",
+    "Year": "1996",
+    "Genre": "oleo",
+    "Director": "Valerie Mraz",
+    "Rating": "2.6",
+    "Actor_IDs": "actor_3b058219-aec1-4aaa-8c2b-bb327eda79f1, actor_a0d00b87-d4aa-446d-8c08-23c83132ebee, actor_34915b95-4851-4ee6-b0f7-615d16be1770",
+    "IMDB_ID": "tt1116171",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "aegre subito reprehenderit",
+    "Year": "1985",
+    "Genre": "chafe",
+    "Director": "Jerry Cronin",
+    "Rating": "2.6",
+    "Actor_IDs": "actor_722e0935-1d49-4db2-872a-4e34ba689437, actor_c0cfc3ec-6735-4a3f-b76a-907d1206d7c4, actor_0505133d-cdc9-45dc-bbdd-a19ec6da52a1",
+    "IMDB_ID": "tt8549358",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "denique ullus decimus",
+    "Year": "2011",
+    "Genre": "artery",
+    "Director": "Adam Veum PhD",
+    "Rating": "3.2",
+    "Actor_IDs": "actor_6dcb836a-31bb-4a53-9468-ef29b21ee3db, actor_700fa4e5-17f4-4374-94ec-2b97530b2aaf, actor_4e81d2a3-894b-4852-8bef-2685193ffff9",
+    "IMDB_ID": "tt2929683",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "caute vulgo solus",
+    "Year": "1926",
+    "Genre": "trinket",
+    "Director": "Kay Schuppe",
+    "Rating": "6.6",
+    "Actor_IDs": "actor_6e77e00b-0b1b-4a67-99fb-55df11c7719c, actor_3e5a5d1c-da23-4d03-8f6c-ba1301e573b9, actor_8603c0a1-69f9-4cfb-93da-48002afe1c00",
+    "IMDB_ID": "tt8408469",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "benevolentia debeo apostolus",
+    "Year": "1976",
+    "Genre": "avocado",
+    "Director": "Melanie Rice",
+    "Rating": "6",
+    "Actor_IDs": "actor_87f4de1d-88a2-4200-b517-566b10f7ed19, actor_1a328578-0003-4688-be6d-6ddd276b096e, actor_1231e854-9632-48f6-922d-a856ef7dfe66",
+    "IMDB_ID": "tt9088633",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cito tonsor contabesco",
+    "Year": "1990",
+    "Genre": "passion",
+    "Director": "Edwin Kuphal",
+    "Rating": "8.6",
+    "Actor_IDs": "actor_bcdc56ef-cfce-4288-93ab-3cfc1f3b5b03, actor_aa8dc4b8-3f3d-48ae-8b62-078bc238a08b, actor_026f3c37-ced8-4adf-8e9b-035a8f43d6c5",
+    "IMDB_ID": "tt8599624",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "suasoria deludo vester",
+    "Year": "1998",
+    "Genre": "case",
+    "Director": "Lynn Bayer",
+    "Rating": "3.9",
+    "Actor_IDs": "actor_c2ea579d-b20b-4918-a3a8-035d211c9137, actor_370467c1-678c-40ef-8a3e-904d5f2b6095, actor_84cb798e-de2a-4405-9b5b-dfcc2592d339",
+    "IMDB_ID": "tt8729431",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "deinde atqui vallum",
+    "Year": "1998",
+    "Genre": "corsage",
+    "Director": "Cedric Hayes",
+    "Rating": "6.3",
+    "Actor_IDs": "actor_909fba6c-0d49-457a-9dcf-b32bbd9e24a4, actor_f90f1d2a-6932-4567-a2a0-9ad8bf9ae87e, actor_78808e32-d897-4117-8939-90824a7f3702",
+    "IMDB_ID": "tt8170192",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "substantia candidus acies",
+    "Year": "1992",
+    "Genre": "prescription",
+    "Director": "Gary Prosacco",
+    "Rating": "9.3",
+    "Actor_IDs": "actor_94ef7a7b-74c2-40ac-a5c2-e252532a7dae, actor_2214053f-b186-4592-9cbe-3c099a32cb1c, actor_89d54410-52cd-4762-ac48-97b0ee4c5597",
+    "IMDB_ID": "tt6203524",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "casso beatae alioqui",
+    "Year": "1997",
+    "Genre": "slash",
+    "Director": "Mrs. Mona Fritsch IV",
+    "Rating": "4.9",
+    "Actor_IDs": "actor_0c6e6412-236f-47a9-8474-f7c3aaa2ebf8, actor_bf9310c2-2e18-4507-b7b2-b3a95e6199e2, actor_d6bf0ba8-e1b2-4b26-b0f0-b7f5aa1bbc01",
+    "IMDB_ID": "tt8078507",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "sed defendo armarium",
+    "Year": "1997",
+    "Genre": "rank",
+    "Director": "Justin Schmidt",
+    "Rating": "3.6",
+    "Actor_IDs": "actor_2da5cb60-e3a4-492a-ad66-4070c2c90449, actor_6b797fe1-dcb7-419c-b493-7888b07d8724, actor_042be1e9-9fb5-4785-838f-dce32d02321e",
+    "IMDB_ID": "tt7353777",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "demonstro valens vestigium",
+    "Year": "1938",
+    "Genre": "cuff-link",
+    "Director": "Mr. Sidney Deckow",
+    "Rating": "6.4",
+    "Actor_IDs": "actor_bdc33db4-d67b-4f72-aafb-66fb2014005e, actor_f9ed86d4-4160-4182-bc37-6759f78da8f5, actor_cb6d6f13-1279-42c1-b37a-5bc5e4b96c30",
+    "IMDB_ID": "tt7435218",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "thesis et aetas",
+    "Year": "1931",
+    "Genre": "cyclooxygenase",
+    "Director": "Tasha Mertz",
+    "Rating": "3.5",
+    "Actor_IDs": "actor_12fcf7d4-31a6-4f3a-8e25-91f78f2c8731, actor_f41b6d78-4e23-4399-b1ba-7c9238e83d00, actor_a411afa1-75fe-4795-83e5-0c8055ee82b5",
+    "IMDB_ID": "tt6464848",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "tricesimus admiratio thymbra",
+    "Year": "1988",
+    "Genre": "hype",
+    "Director": "Anthony McDermott",
+    "Rating": "5.6",
+    "Actor_IDs": "actor_8553a0db-31e9-4799-9af8-fc237a44b428, actor_f1bdbd5e-038e-49d4-9360-92748bf666e0, actor_5beed847-0e2e-4c87-bf08-14c0529552aa",
+    "IMDB_ID": "tt4212943",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "terebro dolores aeger",
+    "Year": "1966",
+    "Genre": "impulse",
+    "Director": "Alfredo Ortiz",
+    "Rating": "10",
+    "Actor_IDs": "actor_e084358a-740a-4263-a208-fc3e8dcd1a7d, actor_5c85534e-5109-4c06-850a-a4c4574044ff, actor_83cc25eb-157b-4ea6-b35c-4c6a5c334fb6",
+    "IMDB_ID": "tt3782465",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "suffragium minus comparo",
+    "Year": "1947",
+    "Genre": "piracy",
+    "Director": "Mabel Mertz",
+    "Rating": "9.4",
+    "Actor_IDs": "actor_65cceb11-a432-4cf8-8b1e-5d4fd5a7d113, actor_3438fc9b-ab5f-4a32-aacc-236fbc846284, actor_923a2c0e-e894-404e-b838-c8792dbc9642",
+    "IMDB_ID": "tt8747753",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cubicularis vesica territo",
+    "Year": "1962",
+    "Genre": "incident",
+    "Director": "Orville Cormier",
+    "Rating": "5.3",
+    "Actor_IDs": "actor_75994e7f-b8dc-4716-a418-b9a3e480da31, actor_d9ca2282-6603-4294-aee8-41a077136a29, actor_95bbd43c-82ae-46a0-9a10-2ea919c114df",
+    "IMDB_ID": "tt6823433",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "utroque adfectus dedecor",
+    "Year": "1932",
+    "Genre": "nudge",
+    "Director": "Mr. Dean Grimes",
+    "Rating": "3.4",
+    "Actor_IDs": "actor_f76f7c38-d855-44c1-8469-e6d70bb3f880, actor_142bc996-315e-4e4a-bb29-3f4f0e12f0f5, actor_6539205e-61e4-40ae-9364-0ffd79d7ee0e",
+    "IMDB_ID": "tt4682241",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cursim accusator cubitum",
+    "Year": "1947",
+    "Genre": "suite",
+    "Director": "Dr. Jackie Bernhard",
+    "Rating": "8.5",
+    "Actor_IDs": "actor_8fdd59e3-3411-4e5d-98d0-431fcae6e2d3, actor_441171e8-1d72-4b4a-b843-c118426a9270, actor_41920cb0-7853-41f9-96d2-a6e4eaf47f5c",
+    "IMDB_ID": "tt7317269",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "totam nesciunt sophismata",
+    "Year": "1943",
+    "Genre": "gown",
+    "Director": "Michael Sporer-Steuber",
+    "Rating": "3.6",
+    "Actor_IDs": "actor_9427baf6-e3cc-457f-b974-ae47356de4e2, actor_d515fd28-a329-48b6-b4e2-b96d74f4ca26, actor_73ad6662-473e-40bf-84bc-669a2d42d5e5",
+    "IMDB_ID": "tt7730633",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "turba culpa conservo",
+    "Year": "2010",
+    "Genre": "vehicle",
+    "Director": "Dr. Aaron Stehr",
+    "Rating": "6.4",
+    "Actor_IDs": "actor_087d524a-ba57-4eab-b715-d1624ba54391, actor_108aa4fa-b23a-4110-8abe-6d689bba1520, actor_5c7241fb-4d33-4261-b5ae-48a36012e07b",
+    "IMDB_ID": "tt1425944",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "amitto animus civitas",
+    "Year": "2017",
+    "Genre": "highland",
+    "Director": "Andre O'Keefe",
+    "Rating": "5.2",
+    "Actor_IDs": "actor_874517dc-a096-4188-9f4c-c3965cbde3a0, actor_8905e88b-e124-4903-bce1-61c883b18e63, actor_4e2b7850-bbe4-4bef-8ce5-ae9fc9feb984",
+    "IMDB_ID": "tt1845670",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "uredo accommodo hic",
+    "Year": "1928",
+    "Genre": "spear",
+    "Director": "Grace Welch III",
+    "Rating": "7",
+    "Actor_IDs": "actor_77dd2e05-f271-47f0-8c05-e70fd200ce8b, actor_1b08a102-c2d1-4258-b07e-536c31726f4f, actor_718de511-4dc6-4718-b454-0d01c4d00cb4",
+    "IMDB_ID": "tt1736072",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cibo eaque defluo",
+    "Year": "1939",
+    "Genre": "climb",
+    "Director": "Gene Gerhold I",
+    "Rating": "7.2",
+    "Actor_IDs": "actor_4f4f0854-c4a6-4fd6-87e1-578f572f9e35, actor_3044138e-2426-4f80-bc97-90bf52edc207, actor_c577e202-fed4-4a63-87c8-339eb120181e",
+    "IMDB_ID": "tt7352725",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "strues sumo certe",
+    "Year": "1987",
+    "Genre": "tailspin",
+    "Director": "Vera Johnson",
+    "Rating": "7.4",
+    "Actor_IDs": "actor_317d808f-ae67-47e9-90f0-9d991450d618, actor_cd1d64c3-3a0b-4547-8823-05d8db0d9550, actor_59633dbf-ad45-4079-ab3b-19b826b53552",
+    "IMDB_ID": "tt1550404",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "abeo considero sumptus",
+    "Year": "1927",
+    "Genre": "utilisation",
+    "Director": "Miguel Reichert",
+    "Rating": "6.8",
+    "Actor_IDs": "actor_2fbacda3-1c8f-425d-92f4-1c96e8969896, actor_187560af-f9ea-4e65-a139-10e0b0309268, actor_e8223643-d513-4594-b0ac-c3087144a24f",
+    "IMDB_ID": "tt8501130",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "theatrum bellum derideo",
+    "Year": "1968",
+    "Genre": "bank",
+    "Director": "Pearl Klocko",
+    "Rating": "7.6",
+    "Actor_IDs": "actor_f75e5bcd-c8e9-4168-904a-a342c91e94c7, actor_352067c3-c7a7-41b5-875e-4fa8068bf536, actor_4dd5fb78-259a-4986-a932-b0dcdbfb6bfe",
+    "IMDB_ID": "tt4511301",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "adstringo textus sollicito",
+    "Year": "2008",
+    "Genre": "rehospitalization",
+    "Director": "Evelyn Douglas",
+    "Rating": "8.7",
+    "Actor_IDs": "actor_859f1736-781b-42ee-b6bf-81f73d3e94cd, actor_c65bea9b-401c-49e1-b6e8-ada5a0b3e63e, actor_4ed2d6b5-b233-4207-bff2-fe8c8e6fc473",
+    "IMDB_ID": "tt7504511",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "sordeo stillicidium conitor",
+    "Year": "1937",
+    "Genre": "last",
+    "Director": "Elizabeth Davis",
+    "Rating": "6.6",
+    "Actor_IDs": "actor_a53bc5ad-c97d-47eb-9b9c-cc443d41800d, actor_268e6988-4921-4579-b7e7-db872d926d9d, actor_eede0a7d-c2ac-473f-a980-47a3d6dc66ef",
+    "IMDB_ID": "tt6425110",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "volaticus dedecor decet",
+    "Year": "1924",
+    "Genre": "pigsty",
+    "Director": "Ollie Hudson",
+    "Rating": "7.3",
+    "Actor_IDs": "actor_8923ad2f-78ee-4ea5-9ab4-f7e5a0d73dc1, actor_8a4e5b47-5c76-470f-8556-297e7832bb21, actor_7caed247-647d-40fb-af8d-c0bd0803e33d",
+    "IMDB_ID": "tt1557862",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "avaritia advenio urbanus",
+    "Year": "1992",
+    "Genre": "win",
+    "Director": "Angel Strosin",
+    "Rating": "9",
+    "Actor_IDs": "actor_be630df7-9bf8-4114-acf5-08dabbc9fd16, actor_8153061e-3184-4aa3-9b41-1670d370034a, actor_eb0b3d00-1dde-44fd-8817-806671b1a4b6",
+    "IMDB_ID": "tt6123999",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "soluta subito bardus",
+    "Year": "1934",
+    "Genre": "glue",
+    "Director": "Hubert Cummings",
+    "Rating": "9.7",
+    "Actor_IDs": "actor_e5ddd39b-b0f1-4fa3-b75d-c360967483be, actor_d37a3b59-fcef-433b-a5a6-521e858b5f5b, actor_a36d6b9b-0dab-405b-8961-72cc6746b4a4",
+    "IMDB_ID": "tt3879156",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "vesper absens universe",
+    "Year": "2001",
+    "Genre": "sprinter",
+    "Director": "Ms. Juanita Schaden",
+    "Rating": "2.4",
+    "Actor_IDs": "actor_640bab3f-a3a4-4879-9a23-ab78af7996d4, actor_9d9ad711-4b74-40e9-abd0-f4d3a3e88801, actor_d129cb56-b3aa-4664-a838-4bfc0bb9e0c3",
+    "IMDB_ID": "tt3309622",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "carus degenero sed",
+    "Year": "1964",
+    "Genre": "space",
+    "Director": "Randall Stiedemann",
+    "Rating": "4.5",
+    "Actor_IDs": "actor_4d9e4714-3835-4c1f-8bc1-80cedf9e7b43, actor_566e57b4-bab5-47f7-9d41-75390b58f092, actor_10162f39-e7e7-4694-a369-aff7d259a5fb",
+    "IMDB_ID": "tt2412315",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "ventito eius numquam",
+    "Year": "1955",
+    "Genre": "dishwasher",
+    "Director": "Kelli Schuster V",
+    "Rating": "9.3",
+    "Actor_IDs": "actor_4741bb28-a42b-4f9a-910a-b0d28a2f71c9, actor_acfe656f-451f-4d69-a1b8-d83b5aa8e473, actor_f228d26d-0c68-4457-bcb4-41b7e82948a8",
+    "IMDB_ID": "tt9957556",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "aqua commemoro corrupti",
+    "Year": "1981",
+    "Genre": "rope",
+    "Director": "Dale Grady",
+    "Rating": "10",
+    "Actor_IDs": "actor_68def403-b9a5-4951-a8b3-99a443c618db, actor_83956809-2142-4dd1-9163-c9e2506e3b4b, actor_9415da2c-91b6-40c9-9e6e-c86ac7e67d59",
+    "IMDB_ID": "tt5383601",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cauda absque officia",
+    "Year": "1983",
+    "Genre": "tissue",
+    "Director": "Kara White",
+    "Rating": "3.9",
+    "Actor_IDs": "actor_97c6d5d0-6d49-4650-a5b0-ecbd22548ce3, actor_87b3232b-ec9d-4d86-86c4-73bb1dff8e80, actor_cfbecad9-9cf8-487c-881c-eb0a84f53166",
+    "IMDB_ID": "tt5242554",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "audio vulgaris vinitor",
+    "Year": "1953",
+    "Genre": "temper",
+    "Director": "Dr. Irvin Stiedemann",
+    "Rating": "2.5",
+    "Actor_IDs": "actor_eff16419-e9f9-4835-9eeb-5bb7fb2e2c6b, actor_9bf5a21e-760f-479f-bdb1-df4cfba39388, actor_03d78015-ed75-4c1c-9756-2686b9a3d354",
+    "IMDB_ID": "tt5482348",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "tonsor theologus cauda",
+    "Year": "1991",
+    "Genre": "mare",
+    "Director": "Timmy Lindgren",
+    "Rating": "6",
+    "Actor_IDs": "actor_764ab0f7-6f75-4de6-8ec2-4d01a684f0a8, actor_8d926b0a-73c6-41d3-b964-35220e845629, actor_fd4b306c-70d9-484f-87ec-449dcfb6a6c9",
+    "IMDB_ID": "tt8679988",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "versus spoliatio decor",
+    "Year": "1995",
+    "Genre": "possibility",
+    "Director": "Bernadette Bruen",
+    "Rating": "5",
+    "Actor_IDs": "actor_c40d75a9-3bfb-4295-a9c7-eff2104a2224, actor_9021fa62-7623-4182-a804-2d3b821e0c77, actor_5480417d-ebd7-4bdf-97a4-a0a4fd89fc85",
+    "IMDB_ID": "tt6795766",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "cimentarius curiositas condico",
+    "Year": "1988",
+    "Genre": "ceramic",
+    "Director": "Delores Cormier-Haley",
+    "Rating": "1.6",
+    "Actor_IDs": "actor_91ec3042-328a-4c37-9639-97309098e568, actor_931af465-5ce4-4283-a6ed-05e00d9cfae4, actor_435264fb-a470-425b-b5a4-23b46f5f6ce8",
+    "IMDB_ID": "tt9272428",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "tum delego studio",
+    "Year": "1932",
+    "Genre": "farmer",
+    "Director": "Theodore Larson",
+    "Rating": "3.3",
+    "Actor_IDs": "actor_b4f7e323-7569-43e5-b3a6-0cfa28e410bb, actor_c09347bd-d25d-4895-832c-13222ebd59df, actor_8d7842d8-e060-46da-be81-a6c6aab57bd3",
+    "IMDB_ID": "tt2160002",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "bene decens crapula",
+    "Year": "2007",
+    "Genre": "reduction",
+    "Director": "Larry Mueller",
+    "Rating": "3",
+    "Actor_IDs": "actor_f1effa85-cd3a-45ae-94a8-773335001e02, actor_f59371a2-dc2e-42d4-ab33-ade9d1d618dd, actor_dfbde5f2-d95f-49c9-9cf4-51fcc25bdb05",
+    "IMDB_ID": "tt4105706",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "creator non dolor",
+    "Year": "1988",
+    "Genre": "cribbage",
+    "Director": "Lorene Terry-Schamberger",
+    "Rating": "7.2",
+    "Actor_IDs": "actor_b8cf31b0-b2b9-455b-b7b5-a24e27173b92, actor_e8394156-fae3-4481-b2b7-8df4899442f0, actor_1f8b1838-068c-4d19-9ba0-19aec2378637",
+    "IMDB_ID": "tt2435555",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "caterva caecus spes",
+    "Year": "1993",
+    "Genre": "access",
+    "Director": "Nicole Brakus",
+    "Rating": "3.4",
+    "Actor_IDs": "actor_04ede075-2240-44de-9f8b-b29f82ec4744, actor_d762ebea-b6ab-4647-bed2-9c04d6ffc8a2, actor_9c9a9a5a-7057-4f7c-842a-680739b2ee34",
+    "IMDB_ID": "tt7183765",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "maxime voluptate custodia",
+    "Year": "1952",
+    "Genre": "waterskiing",
+    "Director": "Sara Brown",
+    "Rating": "1.8",
+    "Actor_IDs": "actor_37930170-8489-4d64-b2b4-363473e8b19e, actor_069eded9-a4ab-49e3-9798-2f069012c31b, actor_6099a37f-9f20-43e4-b115-f548236a74a3",
+    "IMDB_ID": "tt6663266",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "corporis consequatur accendo",
+    "Year": "2008",
+    "Genre": "dud",
+    "Director": "Nathaniel Price",
+    "Rating": "9.4",
+    "Actor_IDs": "actor_51fc6a4c-ab5d-45ef-a56a-3176d2bf3a25, actor_e926d314-6a1f-4787-8f48-edf75d6c8949, actor_795f6201-9854-4b6d-826b-990e66259903",
+    "IMDB_ID": "tt9995770",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "vinum aperiam acidus",
+    "Year": "2016",
+    "Genre": "parsnip",
+    "Director": "Stuart Morar",
+    "Rating": "6.2",
+    "Actor_IDs": "actor_b971f0f6-250d-4134-8a4b-59d9011129a2, actor_6f4ebce8-f324-4fd0-8830-bf53f665390c, actor_bc9a6e72-d268-4635-a470-9e5dc231cc80",
+    "IMDB_ID": "tt9089498",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "ara pel sed",
+    "Year": "1967",
+    "Genre": "spectrum",
+    "Director": "Grace Connelly",
+    "Rating": "7.6",
+    "Actor_IDs": "actor_0b3bfb4c-e29a-42fb-92da-1df2b6bfd690, actor_0c2f962b-cf67-4c0d-942e-a44b92ac4347, actor_33d66aec-1c55-408f-be55-0cd8d24cd4ff",
+    "IMDB_ID": "tt4394288",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "paulatim tremo ipsam",
+    "Year": "1972",
+    "Genre": "eyelash",
+    "Director": "Michele Rolfson",
+    "Rating": "6.4",
+    "Actor_IDs": "actor_ab5214e3-c45f-4202-8257-d57470c5ccc5, actor_62eac77a-23c9-48c9-9535-9efd8cb8c6a1, actor_028b6e05-374c-4cb1-ac7c-506acbf8c1f2",
+    "IMDB_ID": "tt4666874",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "tantum apparatus tenuis",
+    "Year": "1997",
+    "Genre": "watch",
+    "Director": "Pat Sanford",
+    "Rating": "3.7",
+    "Actor_IDs": "actor_e5e90794-824f-4021-89c7-91120fb34cee, actor_40339dae-5fbb-489c-9d4f-d4e6b9887cc3, actor_b79eb1f5-6613-4074-a20c-9c31e10f138f",
+    "IMDB_ID": "tt9894472",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "consectetur appono adaugeo",
+    "Year": "1936",
+    "Genre": "durian",
+    "Director": "Desiree Goyette",
+    "Rating": "1.9",
+    "Actor_IDs": "actor_580ea2b3-0019-40d8-be86-b5c0a3495271, actor_25fbd50c-7a9b-4cb3-b089-5c5b27a7650c, actor_05dacebf-a373-4dd0-ae84-d04ee83db0bd",
+    "IMDB_ID": "tt8773922",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "triumphus aufero varietas",
+    "Year": "1974",
+    "Genre": "godfather",
+    "Director": "Guadalupe Larson",
+    "Rating": "1.5",
+    "Actor_IDs": "actor_96c783ca-ec78-4018-8571-e69be1097c81, actor_43e22def-d300-4101-908f-7372f77acca8, actor_e51938f3-6177-4460-b4a9-996ec3325754",
+    "IMDB_ID": "tt2892209",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "officia adduco abscido",
+    "Year": "2019",
+    "Genre": "industry",
+    "Director": "Zachary Oberbrunner",
+    "Rating": "3",
+    "Actor_IDs": "actor_7c69cdbf-4638-4038-8e25-c5e4ff0cce99, actor_52268dc1-2aec-400a-b2c1-81e27b8cc1ab, actor_8ed26508-6956-4247-aba1-73f91d1d408a",
+    "IMDB_ID": "tt2860861",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "suppono pectus maiores",
+    "Year": "2019",
+    "Genre": "metaphor",
+    "Director": "Marsha Okuneva V",
+    "Rating": "10",
+    "Actor_IDs": "actor_dcc8e097-380f-4c5c-a694-f72206a81a4e, actor_d01ca57f-66dd-414c-9560-0013e04ff5a9, actor_bd653c5c-3162-410e-9ee9-3928670c646e",
+    "IMDB_ID": "tt4222822",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "aestas unus beatus",
+    "Year": "1982",
+    "Genre": "baseball",
+    "Director": "Toni Strosin",
+    "Rating": "5.3",
+    "Actor_IDs": "actor_61ffbf2b-d41e-493a-8366-cf5ceb6e333a, actor_0820597c-3d3e-4646-a2e4-a92875cb27bf, actor_413af101-34b0-4940-995e-8f24e45dcf33",
+    "IMDB_ID": "tt8875186",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "aro terminatio tubineus",
+    "Year": "1973",
+    "Genre": "chip",
+    "Director": "Lawrence Keebler",
+    "Rating": "3.4",
+    "Actor_IDs": "actor_118ef909-44d6-4731-8186-5df07be57f6c, actor_99e32a7f-7f48-45e4-a717-13377f7e25e4, actor_3faff6b6-3ff8-4834-b3db-0356fc1ccc79",
+    "IMDB_ID": "tt1444818",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "conforto vulgus sponte",
+    "Year": "1973",
+    "Genre": "shoelace",
+    "Director": "Tom Moen",
+    "Rating": "8.3",
+    "Actor_IDs": "actor_a88e18cb-6af3-4e31-9adb-3647345e6343, actor_3d38c832-65b8-4775-b010-e91e02e508b3, actor_1a5b783a-2c1b-4ef6-9de2-24941f293447",
+    "IMDB_ID": "tt7129609",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "creber itaque decumbo",
+    "Year": "1989",
+    "Genre": "bell",
+    "Director": "Beverly O'Keefe",
+    "Rating": "9.4",
+    "Actor_IDs": "actor_5b2a1de1-2770-47f3-b976-e7abefff13c8, actor_559c5af4-d2a9-4f77-87a7-7b1bc0d7bc49, actor_57a458ce-a708-41cd-bda3-e469dba55aa8",
+    "IMDB_ID": "tt9327186",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "id cena utrum",
+    "Year": "1934",
+    "Genre": "snuggle",
+    "Director": "Luz Davis",
+    "Rating": "4.1",
+    "Actor_IDs": "actor_25564b4d-514c-4e9d-a3e2-14aa57b96e39, actor_60b65b9b-4f1a-41d9-ad44-71d0682b0f9b, actor_f591c86e-e4cb-4cdf-b91c-94dfb5ce9d8a",
+    "IMDB_ID": "tt8276669",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "approbo rem asperiores",
+    "Year": "2023",
+    "Genre": "short",
+    "Director": "Tamara McCullough",
+    "Rating": "4.8",
+    "Actor_IDs": "actor_d4e95c03-e381-4f73-8ac9-9d0c62e2dc67, actor_7cb04160-bc88-4eef-a29a-e0383c4fc6ff, actor_20548a1a-0c3e-4fab-be1f-d12a335434dc",
+    "IMDB_ID": "tt1542313",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "ulterius testimonium sit",
+    "Year": "1986",
+    "Genre": "criticism",
+    "Director": "Kelly Bayer",
+    "Rating": "6.6",
+    "Actor_IDs": "actor_33f76e31-ba47-40f6-98e8-575553b4dd96, actor_bf13a3f5-2d0e-458e-9c62-f3038d7e293e, actor_f7cbf668-793d-44d5-b5d0-7ce1331638cc",
+    "IMDB_ID": "tt7928365",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "capillus ventito accendo",
+    "Year": "1950",
+    "Genre": "tennis",
+    "Director": "Alma Littel",
+    "Rating": "4.3",
+    "Actor_IDs": "actor_149154ff-dbe2-4dd1-b861-15be676e2b38, actor_7798e806-571a-47e2-b228-ca4b3f0a61d9, actor_072d7173-222e-4477-b1c1-469ad4956d70",
+    "IMDB_ID": "tt8473549",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "abbas caput clarus",
+    "Year": "1939",
+    "Genre": "test",
+    "Director": "Claudia Hartmann V",
+    "Rating": "8.9",
+    "Actor_IDs": "actor_3b3503fd-b487-4cfa-8aad-7e8103fd6a9c, actor_7318cb0d-daa3-4fb7-9452-d34548518c73, actor_eeaac9b0-4d9f-4996-b70c-7413671df0ce",
+    "IMDB_ID": "tt8659462",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "utilis cinis appello",
+    "Year": "1931",
+    "Genre": "hunt",
+    "Director": "Gene Waelchi",
+    "Rating": "4.6",
+    "Actor_IDs": "actor_70de9ada-4150-4c21-8f89-122ff99a27d5, actor_fa6a7a95-b395-414d-8643-8bd0ec242e21, actor_620daa5c-062f-4d25-8768-b3f5704debbf",
+    "IMDB_ID": "tt3830754",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "nemo tero defetiscor",
+    "Year": "1961",
+    "Genre": "stot",
+    "Director": "Vernon Pagac",
+    "Rating": "1.2",
+    "Actor_IDs": "actor_2bef4c15-b8a6-491a-b06e-74825d0c8891, actor_4224e53a-e61c-4e08-8341-f81786863ce9, actor_24977b90-24e7-4e93-87b1-b078e4aa9698",
+    "IMDB_ID": "tt8105372",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "teres stabilis aurum",
+    "Year": "1950",
+    "Genre": "gasoline",
+    "Director": "Jean Wilderman",
+    "Rating": "8.5",
+    "Actor_IDs": "actor_5681136a-ed08-4a1a-be11-675984045ad2, actor_d9ed4dce-99c5-4395-a33b-7c5410ddec3e, actor_d146f573-1ebe-4533-9708-568edc5ee947",
+    "IMDB_ID": "tt6640540",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  },
+  {
+    "Title": "angulus voluptates talus",
+    "Year": "1939",
+    "Genre": "miss",
+    "Director": "Rene Ward",
+    "Rating": "1",
+    "Actor_IDs": "actor_e39761b6-c38d-47d3-adf7-60cffec0e12c, actor_3cef2336-a965-4c55-8419-c49d6e2bbd0f, actor_d377c582-8ade-4064-8020-ce15234431e2",
+    "IMDB_ID": "tt5496588",
+    "Poster_URL": "https://loremflickr.com/640/480"
+  }
+]

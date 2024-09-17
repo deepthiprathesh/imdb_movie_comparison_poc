@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>Batch ID</th>
+            <th>Status</th>
+            <th>Validation Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for row in validation_details %}
+        <tr>
+            <td>{{ row.BatchID }}</td>
+            <td>{{ row.Status }}</td>
+            <td>{{ row.Validation }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
